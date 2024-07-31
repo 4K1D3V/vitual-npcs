@@ -27,7 +27,7 @@ import java.util.Optional;
 public class SyncMongodbConnector {
 
     String host = "127.0.0.1";
-    int port = 27017;
+    int port = 3306;
     String database;
     String username;
     String password;

@@ -13,7 +13,7 @@ taboolib {
             name("Citizens").optional(true)
             name("ServerNPC").optional(true)
             name("ModelEngine").optional(true)
-            name("BetonQuest").optional(true)
+            name("BetonQuest").optional(false)
         }
     }
     // asm
